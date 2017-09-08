@@ -1,4 +1,3 @@
-wendy@wendy-pc:~/Desktop$ echo "$(cat number.txt)"
 123
 4
 5
@@ -11,4 +10,3 @@ wendy@wendy-pc:~/Desktop$ echo "$(cat number.txt)"
 90
 98
 49
-
